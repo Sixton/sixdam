@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 {
-	printf("hi seunghyeon");
+	printf("bye seunghyeon");
 
 	return 0;
+
 }
